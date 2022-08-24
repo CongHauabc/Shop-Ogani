@@ -1,5 +1,5 @@
 # Ogani_Shop
-https://congnghecaocap.tk <br>
+https://nch1shop.tk/ <br>
 Sau khi dowload source code về gõ lệnh <b>"composer update"</b> để cập nhập lại composer <br>
 Sau đó tạo một file <b>".env"</b> copy toàn bộ file <b>".env.example"</b> chỉnh sửa lại kết nối CSDL MySQL<br>
 Tiếp tục 3 lệnh sau <b>"php artisan key:generate" -> "php artisan cache:clear" -> "php artisan config:clear"</b> <br>
